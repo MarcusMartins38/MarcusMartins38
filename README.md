@@ -5,7 +5,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:marcusmartins38@gmail.com)](mailto:marcusmartins38@gmail.com)  
 
 
-- :round_pushpin: Brazil - RO
 - 🎓 Computer Science Student (bachelor's degree).
 - 🚀 Technologies: TypeScript, ReactJS, React Native, NodeJS
 -   :coffee:  +  :musical_note:   =  💻  :purple_heart:
