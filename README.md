@@ -5,8 +5,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:marcusmartins38@gmail.com)](mailto:marcusmartins38@gmail.com)  
 
 
-- 🎓 Computer Science Student (bachelor's degree).
-- 🚀 Technologies: TypeScript, ReactJS, React Native, NodeJS
+- 🎓 Computer Science (bachelor's degree).
+- 🚀 Technologies: Javascript, TypeScript, ReactJS, NextJs, NodeJS
 -   :coffee:  +  :musical_note:   =  💻  :purple_heart:
 
 > "You didn't come this far to only come this far"
